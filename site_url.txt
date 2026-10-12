@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Kovtun3d/kniga/main/imgs.zip
+https://raw.githubusercontent.com/syntora-tech/kvesto-storage/dev/imgs.zip

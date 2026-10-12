@@ -1,1 +1,0 @@
-{"array":[{"name":"muhomor","version":"1.0","description":"Мухомор"},{"name":"mahaon","version":"1.0","description":"Махаон"},{"name":"sinica","version":"1.0","description":"Синиця"},{"name":"ogar","version":"1.0","description":"Огар"},{"name":"juravl","version":"1.0","description":"Журавль"}]}
