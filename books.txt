@@ -1,1 +1,1 @@
-{"array":[{"name":"europa_flora","stringName":"Рослинний світ Європи","draft":false},{"name":"demo_book","stringName":"Демо книжка","draft":true},{"name":"africa_flora","stringName":"Рослинний світ Африки","draft":true}]}
+{"array":[{"name":"europa_flora","stringName":"Рослинний світ Європи","draft":false},{"name":"demo_book","stringName":"Демо книжка","draft":true}]}
