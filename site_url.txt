@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/syntora-tech/kvesto-storage/dev/imgs.zip
+https://raw.githubusercontent.com/syntora-tech/kvesto-storage/main/imgs.zip
